@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>خانه</title>
-    <link>/</link>
-    <description>Recent content on خانه</description>
+    <title>test on خانه</title>
+    <link>/tags/test/</link>
+    <description>Recent content in test on خانه</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa-IR</language>
-    <lastBuildDate>Wed, 08 Dec 2021 02:36:23 +0330</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 02:36:23 +0330</lastBuildDate><atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Blog</title>
       <link>/blog/how-to-blog/</link>
@@ -18,15 +18,6 @@
 چی چی دیگه بنویسم ؟
 آریا عباس بو عذار را زیاد دوست داشت، با توجه به این که آریا نام آریا بود اما او را همچنان محمد صدا می‌زدند. الهی عباس بو عذار بیاد &amp;hellip; دیگه نگم
 متن های بسیار، متن بیشتر، بازم بیشتر tell me more, tell me more یس if you make mony for gang say yea, Yea.</description>
-    </item>
-    
-    <item>
-      <title>Arya</title>
-      <link>/author/arya/</link>
-      <pubDate>Wed, 08 Dec 2021 02:36:04 +0330</pubDate>
-      
-      <guid>/author/arya/</guid>
-      <description>Software student at Sorous university in Isfehan | Django developer | Linux user and a dreamer ✨</description>
     </item>
     
   </channel>

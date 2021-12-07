@@ -1,7 +1,7 @@
 ---
 title: "How to Blog"
 date: 2021-12-08T02:36:23+03:30
-draft: true
+draft: false
 author: "arya"
 image: "/images/blog/test.jpg"
 

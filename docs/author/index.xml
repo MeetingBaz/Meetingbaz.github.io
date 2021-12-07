@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on خانه</title>
+    <link>/author/</link>
+    <description>Recent content in Authors on خانه</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-IR</language>
+    <lastBuildDate>Wed, 08 Dec 2021 02:36:04 +0330</lastBuildDate><atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arya</title>
+      <link>/author/arya/</link>
+      <pubDate>Wed, 08 Dec 2021 02:36:04 +0330</pubDate>
+      
+      <guid>/author/arya/</guid>
+      <description>Software student at Sorous university in Isfehan | Django developer | Linux user and a dreamer ✨</description>
+    </item>
+    
+  </channel>
+</rss>

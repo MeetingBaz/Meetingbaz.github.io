@@ -5,6 +5,25 @@
     <link>/tags/</link>
     <description>Recent content in Tags on خانه</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fa-IR</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fa-IR</language>
+    <lastBuildDate>Wed, 08 Dec 2021 02:36:23 +0330</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>networking</title>
+      <link>/tags/networking/</link>
+      <pubDate>Wed, 08 Dec 2021 02:36:23 +0330</pubDate>
+      
+      <guid>/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/tags/test/</link>
+      <pubDate>Wed, 08 Dec 2021 02:36:23 +0330</pubDate>
+      
+      <guid>/tags/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
