@@ -4,6 +4,7 @@ languageCode = "fa-IR"
 title = "خانه"
 theme = "bookworm-FE"
 paginate = "7"
+publishdir = "docs"
 
 # - Post Url - 
 [permalinks]
@@ -48,7 +49,6 @@ dark = "#152035"
 gray = "#747577"
 light = "#FAFAFA"
 color_primary = "#01AD9F"
-publishdir = "docs"
 
 # ----- Theme Parameters -----
 [params]
