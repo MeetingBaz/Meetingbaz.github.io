@@ -61,12 +61,12 @@ Commenttheme = "github-light"
 Commentlabel = "Comment"
 
 # -- Logo and Favicon --
-logo = "images/logo.png"
+logo = "/images/avatar.jpg"
 logo_height = "50px"
-favicon = "images/logo.png"
+favicon = "/images/avatar.jpg"
 
 # -- Meta data --
-description = "مکانی برای هواداران نرم افزار آزاد"
+description = "در میتینگ باز، تجربه هامون رو به اشتراک میذاریم. همیشه راه برای ایده های جدید بازه! "
 
 # -- contact form action --
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -86,27 +86,27 @@ user = "gnkalk"
 
 # - telegram -
 [[params.social]]
-url = "https://t.me/FOSSFA"
+url = "https://t.me/MeetingBazzz"
 icon = "lab la-telegram"
 
 # - discord -
-[[params.social]]
-url = "https://discord.gg/5md25aNXyc"
-icon = "lab la-discord"
+# [[params.social]]
+# url = "https://discord.gg/5md25aNXyc"
+# icon = "lab la-discord"
 
 # - Mastodon -
-[[params.social]]
-url = "https://fosstodon.org/@FOSSFarsi"
-icon = "lab la-mastodon"
+# [[params.social]]
+# url = "https://fosstodon.org/@FOSSFarsi"
+# icon = "lab la-mastodon"
 
 # - Matrix -
-[[params.social]]
-url = "https://matrix.to/#/#fossfa:matrix.org"
-icon = "las la-comments"
+# [[params.social]]
+# url = "https://matrix.to/#/#fossfa:matrix.org"
+# icon = "las la-comments"
 
 # - Github -
 [[params.social]]
-url = "https://github.com/FOSSFA"
+url = "https://github.com/MeetingBaz"
 icon = "lab la-github"
 
 # ----- Menu -----
@@ -135,10 +135,10 @@ weight = 1
 url = "author/"
 name = "نویسندگان"
 
-[[menu.footer]]
-weight = 2
-url = "archive/"
-name = "بایگانی"
+# [[menu.footer]]
+# weight = 2
+# url = "archive/"
+# name = "بایگانی"
 
 # [[menu.footer]]
 # weight = 3
