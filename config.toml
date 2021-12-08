@@ -129,6 +129,11 @@ weight = 4
 url = "contact"
 name = "ارتباط با ما"
 
+[[menu.main]]
+weight = 2
+url = "/archive"
+name = "بایگانی"
+
 # -- Footer Menu --
 
 [[menu.footer]]
@@ -136,10 +141,7 @@ weight = 1
 url = "author/"
 name = "نویسندگان"
 
-# [[menu.footer]]
-# weight = 2
-# url = "archive/"
-# name = "بایگانی"
+
 
 # [[menu.footer]]
 # weight = 3
